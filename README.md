@@ -1,4 +1,4 @@
-# Hi there, I'm Rema Zafer Alqhtanie! 👋 🛡️
+# Hi there, I'm Rema ! 👋 🛡️
 
 A Cybersecurity Specialist focused on Digital Forensics, Incident Response (DFIR), and Security Operations. I leverage an analytical mindset to dissect threats and extract critical artifacts across computer, network, and mobile environments.
 
